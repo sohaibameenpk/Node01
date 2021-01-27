@@ -1,0 +1,19 @@
+{
+  "name": "node01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"   Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohaibameenpk/Node01.git"
+  },
+  "author": "Sohaib Ameen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohaibameenpk/Node01/issues"
+  },
+  "homepage": "https://github.com/sohaibameenpk/Node01#readme"
+}
